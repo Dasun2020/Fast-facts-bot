@@ -63,21 +63,6 @@ async def answer(ctx, *args):
       #btw can u like make a copy of this later so i can try different prompts to see if thats better ok (dont remove this, its a reminder)
       result = response.choices[0].text
       user = ctx.message.author
-      first_chars = result[:3]
-      print(first_chars)
-      if first_chars.lower() == "yes":
-        with open("scores.json", "r") as openfile:
-          urmom = json.load(openfile) #really damn hot and seggsy
-        if not str(user) in urmom:
-          tempi = {
-            str(user): 1
-          }
-        elif str(user) in urmom:
-          tempi = {
-            str(user): urmom[str(user)] + 1
-          }
-          with open("scores.json", "w") as outfile:
-            json.dump(tempi, outfile)
       await ctx.send(result)
     else:
       await ctx.send("That word doesn't start with the correct letter 🫥")
