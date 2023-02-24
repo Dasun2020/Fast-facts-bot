@@ -6,6 +6,7 @@ import string
 import openai
 import os
 import keep_alive
+
 my_secret = str(os.environ['openai_key'])
 my_secret_dos = str(os.environ['discord'])
 openai.api_key = my_secret
@@ -42,28 +43,43 @@ async def fact(ctx):
             break
     global zeh_letter
     zeh_letter = random.choice(Letters)
-    await ctx.send(f"GIve me a {zeh_catt} starting with the letter {zeh_letter}")
+    await ctx.send(f"Give me a {zeh_catt} starting with the letter {zeh_letter}")
 
 @client.command(aliases=["a"])
 async def answer(ctx, *args):
     temp = str(args[0])
     if (temp[0] == zeh_letter or temp[0] == zeh_letter.lower()):
-        await ctx.send("Checking")
-        print(f"is {temp} an example of {zeh_catt}")
-        response = openai.Completion.create(
-            model=model_engine,
-            #is [example] a [example], if not, what is it?
-            prompt="Is " + temp + " a " + zeh_catt + ", if not, what is it?",
-            max_tokens=1024,
-            n=1,
-            stop=None,
-            temperature=0.5,
-        )
-        result = response.choices[0].text
-        await ctx.send(result)
+      await ctx.send("Checking")
+      print(f"is {temp} an example of {zeh_catt}")
+      response = openai.Completion.create(
+          model=model_engine,
+          #is [example] a [example], if not, what is it?
+          prompt="Is " + temp + " a " + zeh_catt + "?", # + ", if not, what is it?",
+          max_tokens=1024,
+          n=1,
+          stop=None,
+          temperature=0.5,
+      )
+      #btw can u like make a copy of this later so i can try different prompts to see if thats better ok (dont remove this, its a reminder)
+      result = response.choices[0].text
+      user = ctx.message.author
+      first_chars = result[:3]
+      print(first_chars)
+      if first_chars.lower() == "yes":
+        with open("scores.json", "r") as openfile:
+          urmom = json.load(openfile) #really damn hot and seggsy
+        if not str(user) in urmom:
+          tempi = {
+            str(user): 1
+          }
+        elif str(user) in urmom:
+          tempi = {
+            str(user): urmom[str(user)] + 1
+          }
+          with open("scores.json", "w") as outfile:
+            json.dump(tempi, outfile)
+      await ctx.send(result)
     else:
-        await ctx.send("That word doesn't start with the correct letter . . . .")
-
-
+      await ctx.send("That word doesn't start with the correct letter 🫥")
 
 client.run(my_secret_dos)
