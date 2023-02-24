@@ -1,0 +1,140 @@
+[
+  {
+    "Branch name": "General Scientists",
+    "Topics": ["Scientist", "Astronomer", "Biologist", "Chemist", "Physicist", "Physicist (Nobel Laureates)", "Aviator", "Inventor", "Philosopher"]
+  },
+  {
+    "Branch name": "Units/Dimensions",
+    "Topics": ["Unit", "Dimension", "Metric unit", "Metric unit Prefix", "Metric SI unit", "Time unit", "Constant", "Eponymous Constant"]
+  },
+  {
+    "Branch name": "Laws/Theories/Theorems/Principles",
+    "Topics": ["Scientific Law", "Theory", "Theorem", "Scientific Principle", "Eponymous Law", "Eponymous Theory", "Eponymous Theorem", "Eponymous Principle"]
+  },
+  {
+    "Branch name": "Branches of Science",
+    "Topics": ["Branch of Science", "Branch of science ending in -ology", "Branch of science within biology", "medical branch of science", "branch of science within physics", "Science Career"]
+  },
+  {
+    "Branch name": "Other (General)",
+    "Topics": ["Lab Equipment", "Microscope part", "Scientific Instrument", "Measuring Equipment", "Scientific Method term", "Scientific Discovery", "Scientific Invention","SciOly Event", "Math term", "Latin Prefix", "Greek Letter"]
+  },
+  {
+    "Branch name": "Anatomy",
+    "Topics": ["Human anatomy term", "Human Bone", "Human Muscle", "Organ", "Organ system", "Part of the human eye", "Part of the Human brain", "part of the Circulatory System", "part of the Digestive System", "part of the Respiratory System"]
+  },
+  {
+    "Branch name": "Cells/Genetics",
+    "Topics": ["Cell term", "Genetics term", "Cell Structure", "Organelle", "Plant cell Organelle", "Animal cell Organelle", "Eukaryotic Organelle", "Type of Cells", "Cell Division term", "DNA term", "Nucleotides", "Heredity term"]
+  },
+  {
+    "Branch name": "Biochemistry",
+    "Topics": ["Enzyme", "Hormone", "Neurotransmitter", "Amino Acid"]
+  },
+  {
+    "Branch name": "Names",
+    "Topics": ["Animal name", "Bacteria name", "Pathogen name", "Virus name", "Protist",
+    "Tree", "Deciduous tree", "North American tree", "Reptile", "Reptile order", "Dinosaur", "North American Dinosaur", "Amphibian", "Amphibian order", "Plant", "Flower", "Phyla", "Flowering Plant", "Edible Herb", "Submerged Aquatic Vegetation", "Bird", "Bird of Prey", "US State bird", "Insect", "Insect Anatomy term", "Spider", "Mammal", "Marsupial", "Marine term", "Whale", "Primate", "Dog Breed", "Mammal of Africa", "Mammal of North America", "Mammal of Michigan", "Fish", "Fungi", "Mushroom", "Fruit", "Stone fruit", "Vegetable", "Root Vegetable", "Invasive Species", "invasive species of Michigan", "Aquatic Plant", "Poisonous or Venomous Animal", "Vertebrate", "Land Vertebrate", "Invertebrate", "Endangered Species", "Unicellular Organism", "Animal with Antlers", "Domesticated Animal", "Prehistoric Aquatic Animal", "Coral",
+    "Aquatic term", "Nocturnal Animal", "Extinct Animal"]
+  },
+  {
+    "Branch name": "Taxonomy",
+    "Topics": ["Taxonomy rank"]
+  },
+  {
+    "Branch name": "Evolution",
+    "Topics": ["Evolution term"]
+  },
+  {
+    "Branch name": "Ecology",
+    "Topics": ["Ecology term", "Biome", "Terrestrial Biome", "Ecosystem term", "Abiotic factor", "Biogeochemical cycle", "Water cycle term", "soil type", "pollution term", "factor in population size", "Symbiotic relationship term", "Food webs term", "Trophic level"]
+  },
+  {
+    "Branch name": "Ecology",
+    "Topics": ["Botany terms", "plant part", "flower part"]
+  },
+  {
+    "Branch name": "Epidemiology",
+    "Topics": ["epidemiology term", "Disease", "Disorder", "Human disease", "infectious disease", "type of cancer", "foodborne disease", "genetic disease", "viral disease", "neurological disease", "immunology term"]
+  },
+  {
+    "Branch name": "Other(Biology)",
+    "Topics": ["thing found in human blood", "fingerprinting term", "type of fingerprints", "Nutrition term", "item listed on FDA nutrition facts label", "medical term", "zoology term"]
+  },
+  {
+    "Branch name": "Chemistry general",
+    "Topics": ["Chemistry term"]
+  },
+  {
+    "Branch name": "Elements",
+    "Topics": ["element", "metal", "semimetal", "nonmetal", "element discovered after 1900", "element named after places", "man made element", "noble gas"]
+  },
+  {
+    "Branch name": "Compounds",
+    "Topics": ["compound", "organic compound", "acid"]
+  },
+  {
+    "Branch name": "matter",
+    "Topics": ["matter term", "state of matter", "phase change", "property of matter"]
+  },
+  {
+    "Branch name": "other(chemistry)",
+    "Topics": ["Chem lab term", "chem lab equipment", "gas", "type of reaction"]
+  },
+  {
+    "Branch name": "Earth Science general",
+    "Topics": ["Geology term", "oceanography term", "Meteorology term", "Astronomy term"]
+  },
+  {
+    "Branch name": "Rocks/minerals/fossils",
+    "Topics": ["mineral", "Native element mineral", "gemstone", "precious metal", "rock", "igneous rock", "metamorphic rock", "sedimentary rock", "fossil"]
+  },
+  {
+    "Branch name": "Tectonic plates/earth structure",
+    "Topics": ["tectonic plate name", "earth structure term", "ancient supercontinent", "layer of the Earth", "earthquake name", "earthquake term"]
+  },
+  {
+    "Branch name": "Landforms/surface structure",
+    "Topics": ["Landform", "mountain", "mountain in the US", "Top 20 largest mountain range", "volcano", "active volcano", "desert", "coastal landform", "glacier", "glacier in the US", "body of water"]
+  },
+  {
+    "Branch name": "Oceanography",
+    "Topics": ["Bathymetric feature", "Abyssal plain", "Ocean basin", "Major surface current"]
+  },
+  {
+    "Branch name": "Space",
+    "Topics": ["celestial body", "star name", "stellar evolution term", "deep space object", "Galaxy", "constellation", "comet", "solar system term", "solar system object", "planet", "dwarf planet", "moon", "moon of Saturn", "NASA mission"]
+  },
+  {
+    "Branch name": "Atmosphere",
+    "Topics": ["climate term", "climate change term", "climate zone", "natural disaster", "type of severe weather", "severe weather term", "Hurricane name", "Hurricane term", "Retired hurricane name", "Layer of the atmosphere", "Wind term", "Air current term", "weather instrument", "weather forecasting term", "weather phenomena"]
+  },
+  {
+    "Branch name": "geologic time",
+    "Topics": ["Geologic Eon", "Geologic Era", "Geologic Period"]
+  },
+  {
+    "Branch name": "Maps/Geography",
+    "Topics": ["Map term", "geography term", "country", "country in the eastern hemisphere", "capital city", "Map feature", "topographic map term", "topographic map symbol"]
+  },
+  {
+    "Branch name": "other(Earthsci)",
+    "Topics": ["Archaeology term", "US national park"]
+  },
+  {
+    "Branch name": "General(physics)",
+    "Topics": ["physics term", "kinematics term"]
+  },
+  {
+    "Branch name": "Dynamics/EM",
+    "Topics": ["Dynamics term", "type of force", "Electricity term", "magnetism term", "electric circuit term"]
+  },
+  {
+    "Branch name": "thermodynamics/waves/particles",
+    "Topics": ["Thermodynamics term", "Energy term", "energy type", "energy source", "wave physics term", "type of wave", "optics term", "EM spectrum term", "sound term", "particle physics term", "sub-atomic particle", "elementary particle", "atomic model term"]
+  },
+  {
+    "Branch name": "other(physics)",
+    "Topics": ["Aviation term", "part of an airplane", "aircraft name", "computer term", "computer part", "programming language", "engineering term", "engineering design term", "machine"]
+  }
+]

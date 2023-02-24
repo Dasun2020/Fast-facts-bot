@@ -1,0 +1,42 @@
+[
+    {
+        "Branch name": "General Scientists",
+        "Topics": ["Scientists", "Astronomers", "Biologists", "Chemists", "Physicists", "Physicists (Nobel Laureates)", "Aviators", "Inventors", "Philosophers"]
+    },
+    {
+        "Branch name": "Units/Dimensions",
+        "Topics": ["Units", "Dimensions", "Metric", "Metric Prefixes", "Metric SI units", "Time", "Constants", "Eponymous Constants"]
+    },
+    {
+        "Branch name": "Laws/Theories/Theorems/Principles",
+        "Topics": ["Laws", "Theories", "Theorems", "Principles", "Eponymous Laws", "Eponymous Theories", "Eponymous Theorems", "Eponymous Principles"]
+    },
+    {
+        "Branch name": "Branches of Science",
+        "Topics": ["Branches of Science", "Branches of science ending in -ology", "Biology", "Physics", "Science Careers"]
+    },
+    {
+        "Branch name": "Other",
+        "Topics": ["Lab Equipment", "Microscope parts", "Scientific Instruments", "Measuring Equipment", "Scientific Method", "Scientific Discoveries", "Scientific Method", "Scientific Discoveries", "Scientific Inventions", "SciOly Events", "Math", "Latin Prefixes", "Greek Letters"]
+    },
+    {
+        "Branch name": "Anatomy",
+        "Topics": ["Anatomy", "Bones", "Human Bones", "Muscles", "Human Muscles", "Organs", "Organ systems", "Parts of the human eye", "Parts of the Human brain", "Circulatory System", "Digestive System", "Respiratory System"]
+    },
+    {
+        "Branch name": "Cells/Genetics",
+        "Topics": ["Cells", "Genetics", "Cell Structures", "Organelles", "Plant Organelles", "Animal Organelles", "Eukaryotic Organelles", "Types of Cells", "Cell Division", "DNA", "Nucleotides", "Heredity"]
+    },
+    {
+        "Branch name": "Biochemistry",
+        "Topics": ["Enzymes", "Hormones", "Neurotrasmitters", "Amino Acids"]
+    },
+    {
+        "Branch name": "Names",
+        "Topics": ["Animal names", "Bacteria names", "Pathogen names", "Viruse names", "Protists", "Trees", "Deciduous trees", "Tree's of North America", "Reptiles", "Reptile orders", "Dinosaurs", "North American Dinosaurs", "Amphibians", "Amphibian orders", "Plants", "Flowers", "Phyla", "Flowering Plants", "Edible Herbs", "Submerged Aquatic Vegetation", "Birbs", "Birbs of Prey", "State birbs", "Insects", "Insect Anatomy", "Spiders", "Mammals", "Marsupials", "Marine", "Whales", "Primates", "Dog Breeds", "Mammals of Africa", "Mammals of North America", "Mammals of Michigan", "Fosh", "Fungi", "Mushrooms", "Fruits", "Stone fruit", "Vegetables", "Root Vegetables", "Invasive Species", "of Michigan", "Aquatic Plants", "Other", "Poisonous or Venomous Animals", "Vertebrates", "Land Vertebrates", "Invertebrates", "Endangered Species", "Unicellular Organisms", "Animals with Antlers", "Domestricated Animals", "Prehistoric Aquatic Animals", "Coral", "Aquatic", "Nocturnal Animals", "Extinct Animals", "Marine", "yOUR mOM", "yOuR dAD"]
+    },
+    {
+        "Branch name": "Taxonomy",
+        "Topics": ["Taxonomy Ranks"]
+    }
+]
