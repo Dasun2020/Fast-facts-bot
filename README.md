@@ -1,9 +1,9 @@
 # Fast Fact Discord bot (0.1.1)
 
-This is a discord bot to practice fast facts with
+This is a discord bot to practice fast facts with (it kind of sucks, i might fix it later)
 
 ### DISCLAIMER!!!!!!!!!!!!!!
-THIS BOT USES OPENAI TO GENERATE ANSWERS, BECAUSE OF THIS IT'S VERY QUIRKY AND BROKEN
+THIS BOT USES OPENAI TO GENERATE ANSWERS, BECAUSE OF THIS IT'S VERY BROKEN
 
 ## You can add the bot to your server here:
 
